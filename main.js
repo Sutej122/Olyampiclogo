@@ -1,6 +1,6 @@
 canvas = document.getElementById("myCanvas");
 ctx = canvas.getContext("2d");
-keypress(arc)
+
 ctx.beginPath();
 ctx.strokeStyle = "Grey";
 ctx.lineWidth = 4;
